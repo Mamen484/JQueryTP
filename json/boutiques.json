@@ -1,0 +1,36 @@
+[
+    {
+    "nom": "La boutique liquide !",
+    "adresse": "4, place de la nation",
+    "ville": "Paris",
+    "pays": "France",
+    "latitude": 48.8479299,
+    "longitude": 2.3943127000000004
+},
+    
+    {
+        "nom": "Nation Diffusion",
+        "latitude": "48.8490067",
+        "longitude": "2.39262680000002"
+    },
+    {
+        "nom": "Page 189",
+        "latitude": "48.8505184",
+        "longitude": "2.3817123"
+    },
+    {
+        "nom": "L arbre a Lettres",
+        "latitude": "48.8518762",
+        "longitude": "2.37345719999996"
+    },
+    {
+        "nom": "La Griffe Noire",
+        "latitude": "48.8095657",
+        "longitude": "2.47142689999998"
+    },
+    {
+        "nom": "Librairie Joyen",
+        "latitude": "48.7900794",
+        "longitude": "2.46552859999997"
+    }
+]
